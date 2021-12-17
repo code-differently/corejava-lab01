@@ -2,7 +2,7 @@ package com.codedifferently.labs.lab01.a_scanner_conditional.examples;
 
 import java.util.Scanner;
 
-public class Example06_StringChecker {
+public class Example04_StringChecker {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String name = "";

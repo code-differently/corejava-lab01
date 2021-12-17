@@ -1,8 +1,8 @@
-package com.codedifferently.labs.lab01.c_lab;
+package com.codedifferently.labs.lab01.a_scanner_conditional.activities;
 
 import java.util.Scanner;
 
-public class Activity_C06 {
+public class Activity_A05_SwitchCalculator {
     //Todo: Rewrite the code in Example04_Calculator to use a switch statement
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package com.codedifferently.labs.lab01.c_lab;
+package com.codedifferently.labs.lab01.c_lab.activities;
 
 public class Activity_C01 {
 

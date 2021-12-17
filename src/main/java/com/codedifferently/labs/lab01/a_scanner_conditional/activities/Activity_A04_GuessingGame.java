@@ -1,6 +1,6 @@
 package com.codedifferently.labs.lab01.a_scanner_conditional.activities;
 
-public class Activity_A05_GuessingGame {
+public class Activity_A04_GuessingGame {
     //Todo: create a main method
     //Todo: inside the main method create a new Scanner Object
     //Todo: prompt a number between 1 and 10
